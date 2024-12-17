@@ -4,7 +4,8 @@
   "description": "Local WebSocket server for testing",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "node server.js"
   },
   "dependencies": {
     "ws": "^8.14.2"
